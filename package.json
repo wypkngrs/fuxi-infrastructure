@@ -1,0 +1,14 @@
+{
+  "author": "Song Zheng",
+  "description": "Fuxi 3D infrastructure.",
+  "displayName": "Fuxi Infrastructure",
+  "license": "MIT",
+  "name": "com.netease.fuxi.infrastructure",
+  "unity": "2019.2",
+  "unityRelease": "0f1",
+  "version": "0.0.1",
+  "type": "tool",
+  "dependencies": {
+    "com.unity.addressables": "1.0.0"
+  }
+}
